@@ -87,3 +87,25 @@ A operação elemento do topo mostra o elemento que está no topo da pilha. Não
 Mostrar Pilha:
 A operação mostrar pilha exibe todos os elementos que a pilha possui. Para que o usuário consiga saber todos os elementos que têm na pilha.
 
+--
+
+[Aula10]
+
+## Entendendo os Elementos Lista Ligada
+
+Estrutura de dados linear.
+Lista linear com ligações.
+Sequência por ligações na memória.
+Armazenamento de forma lógica.
+
+- Vantagens:
+Utilização de memória.
+Pode representar filas e pilhas.
+Facilidade de inserção e remoção no meio da lista.
+Busca de elementos no meio da lista.
+
+- Desvantagens:
+Algoritmo mais complexo.
+Uso de recursão para tornar algoritmos menos complexos.
+Problemas na manipulação das operações.
+Percorrer a lista para acessar um elemento no meio.
