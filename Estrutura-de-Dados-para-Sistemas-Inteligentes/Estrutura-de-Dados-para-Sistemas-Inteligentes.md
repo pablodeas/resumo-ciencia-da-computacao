@@ -109,3 +109,36 @@ Algoritmo mais complexo.
 Uso de recursão para tornar algoritmos menos complexos.
 Problemas na manipulação das operações.
 Percorrer a lista para acessar um elemento no meio.
+
+- Inserir no Início:
+É uma operação da lista ligada que insere um elemento no início da Lista Ligada, independente da quantidade de elementos que tenha a lista ligada.
+
+- Inserir no final:
+É uma operação de lista ligada que insere um elemento no final da Lista Ligada, independente da quantidade de elementos que tenha na lista ligada.
+
+- Inserir no meio:
+É uma operação de lista ligada que insere um elemento no meio da Lista Ligada, na posição indicada, independente da quantidade de elementos que tenha a lista ligada.
+
+- Lista vazia:
+É uma operação da lista ligada que verifica se a lista ligada está vazia e retorna verdadeiro se estiver vazia e falso se não estiver vazia.
+
+- Remover:
+Remove um elemento, pode ser no início, no meio ou no final da lista ligada.
+
+- Contar Nós:
+Verifica quantos elementos existem na lista ligada e retorna essa informação.
+
+- Mostrar Lista:
+Mostra todos os elementos que estão na lista ligada.
+
+- Buscar:
+Verifica se determinado elemento pertence a lista ligada, retornando essa informação.
+
+- Aplicações Computacionais:
+Listas ligadas de filas.
+Listas ligadas de pilhas.
+Jogos digitais.
+Planilhas eletrônicas.
+Fila de bancos atuais com senha numérica.
+Lista ligada de cartas de um jogo de baralho.
+
