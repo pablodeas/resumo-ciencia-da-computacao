@@ -40,3 +40,50 @@ Alteração
 Quando ordenar
 Quando não ordenar
 
+## Entendendo Vetores e Matrizes
+
+--
+
+## Entendendo Pilha
+
+Pilha é uma estrutura de dados simples.
+Homogênea ou Heterogênea.
+Lista linear alocada inicialmente.
+Acesso sempre pelo topo da Pilha.
+Ver, inserir ou remover sempre pelo todo da Pilha.
+UEPS ou LIFO em inglês (Last In, Firt Out).
+
+- Aplicações Computacionais
+Compiladores na decodificação de expressões aritméticas.
+Armazenamento de variáveis locais dos programas.
+Sistemas operacionais.
+
+- Aplicações Diversas
+Algoritmos de pesquisa.
+Algoritmos de tomada de decisão de melhor caminho.
+Navegação na internet.
+
+- Exemplo Bandejas.
+Pilhas de bandejas de uma lanchonete.
+Retirada pelo topo.
+Devolução no topo.
+
+- Operações de Pilha
+Empilhar: 
+A operação de empilhar é a operação insere um elemento na pilha, a inserção acontece no topo da pilha.
+
+Desempilhar:
+A operação de desempilhar remove um elemento da pilha, a remoção acontece no topo da pilha.
+
+Pilha Vazia:
+A operação pilha vazia verifica se a pilha está vazia. A operação pilha vazia é muito utilizada para saber que há elementos na pilha.
+
+Pilha Cheia:
+A operação pilha cheia verifica se a pilha está cheia. A operação pilha cheia é muito utilizada para saber se há espaço na pilha.
+
+Elemento do Topo:
+A operação elemento do topo mostra o elemento que está no topo da pilha. Não remove o elemento, apenas mostra.
+
+Mostrar Pilha:
+A operação mostrar pilha exibe todos os elementos que a pilha possui. Para que o usuário consiga saber todos os elementos que têm na pilha.
+
