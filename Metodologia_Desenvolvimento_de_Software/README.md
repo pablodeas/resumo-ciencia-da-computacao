@@ -32,3 +32,28 @@
 - Tarefas bem dimensionadas.
 - Exemplos de Métodos tradicionais: Cascata, Lean(Enxuto).
 
+### Metodologias Ágeis
+
+- Foco no próprio projeto.
+- Foco no produto e no cliente.
+- Melhorias e alterações constantes.
+- Base no feedback do usuário final.
+- Ausência de estruturas rígidas.
+- Períodos curtos de desenvolvimento.
+- Resultados e feedbacks rápidos.
+- Correção em estágios iniciais.
+- Qualidade nas primeiras versões.
+- Exemplos de Métodos Ágeis: Kanban e Scrum.
+
+---
+
+## 2° Aula - Engenharia de Software
+
+### Conceitos e aplicações
+
+- A engenharia de software reúne metodologias, métodos e ferramentas.
+- Utilização para o entendimento do problema até a entrega final do software.
+- Atua no processo do desenvolvimento do software, resolvendo problemas.
+- Auxilia no processo de produção do software.
+- Melhoria da qualidade e diminuição de custos.
+
