@@ -57,3 +57,21 @@
 - Auxilia no processo de produção do software.
 - Melhoria da qualidade e diminuição de custos.
 
+### Engenheiro de Software
+
+- Cuida da parte técnica e científica do software.
+- Cuida do desenvolvimento e da gestão.
+- Criação de softwares de quaisquer naturezas.
+- Gerenciamento do negócio e projetos da empresa.
+
+### Importância da Engenharia de Software
+
+- Acompanhamento dos avanços tecnológicos:
+-- busca de novos métodos para desenvolver
+-- para gerenciar sistemas e aplicativos
+-- objetivo do bem da sociedade
+
+- Produzir sistemas de software eficientes:
+-- antenado às tendências
+-- visar praticidade e otimização
+
