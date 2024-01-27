@@ -75,3 +75,15 @@
 -- antenado às tendências
 -- visar praticidade e otimização
 
+- Facilitar a vida dos usuários:
+-- Transformação de sonho em realidade
+-- Inovação
+-- Criação
+-- Facilidade para a rotina das pessoas
+
+### Futuro da Engenharia de Software
+
+- Novas tecnologias da informação.
+- Tecnologia e novas formas de desenvolvimento, fabricação, comercialização e distribuição de softwares.
+- Otimização.
+
