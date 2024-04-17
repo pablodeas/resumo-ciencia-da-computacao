@@ -87,3 +87,23 @@
 - Tecnologia e novas formas de desenvolvimento, fabricação, comercialização e distribuição de softwares.
 - Otimização.
 
+## 2° Aula - Princípios 1 a 4 do manifesto ágil
+
+### Maior Prioridade: Satisfação do Cliente
+
+- Satisfação ao cliente com maior prioridade
+- Entregas contínuas e adiantada do software com valor agregado
+- Interações rápidas e contínuas
+- Agregando valor de negócio ao cliente
+- Evitar foco na organização e documentação do ciclo de vida do desenvolvimento da solução
+- Evitar aplicação a risca do estado da arte computacional (tecnologias, linguagens, ferramentas)
+- Foco nas necessidades do cliente
+
+### Mudanças de requisitos bem-vindas
+
+- Mesmo que tardiamente no desenvolvimento
+- Processos ágeis tiram vantagem das mudanças
+- Foco na vanagem competitiva para o cliente
+- Evita o custo de manutenção
+- Dificilmente é possível levantar todos os requisitos no início do desenvolvimento, sem ter o software funcional
+
