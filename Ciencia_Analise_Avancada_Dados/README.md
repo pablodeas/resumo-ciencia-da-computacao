@@ -265,3 +265,17 @@
 > A distribuição binomial é usada para obter a probabilidade de observar:
 
 ![img3.png](./src/img3.png)
+
+
+##### Exemplo Conceitual
+
+> Vamos supor que queiramos saber a probabilidade específica de que o lado "Cara" aparecerá exatamente 10 vezes depois de 20 lançamentos de moeda
+> Solução:
+	Para resolver esse problema, precisamos calcular a função de probabilidade da distribuição Binomial. Sendo que, e.
+
+![img4.png](./src/img4.png)
+
+> Exemplo em Python
+
+![img4.png](./src/img5.png)
+
