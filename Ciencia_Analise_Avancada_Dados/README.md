@@ -264,10 +264,10 @@ altitude: 0.0000
 ##### A distribuição Binomial
 
 > Fórmula para função de probabilidade binomial dada por:
-![487f7012924c67dbbd1c84a8bffce53e.png](../_resources/487f7012924c67dbbd1c84a8bffce53e.png)
+![img1.png](/src/img1.png)
 
 > Sendo que:
-![e426cffc4a7fc8c74732c8a95293fac2.png](../_resources/e426cffc4a7fc8c74732c8a95293fac2.png)
+![img2.png](/src/img2.png)
 
 > A distribuição binomial é usada para obter a probabilidade de observar:
-![27a091f2d492c83a5280a0c8413a0aa3.png](../_resources/27a091f2d492c83a5280a0c8413a0aa3.png)
+![img3.png](/src/img3.png)
