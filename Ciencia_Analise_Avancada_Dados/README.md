@@ -1,3 +1,12 @@
+---
+title: Ciencia_Analise_Avancada_Dados
+updated: 2024-04-18 15:49:31Z
+created: 2024-04-18 15:46:26Z
+latitude: -20.29761780
+longitude: -40.29577680
+altitude: 0.0000
+---
+
 # Aula 1 - Ciência de Dados
 
 ## O que são Dados?
@@ -255,11 +264,10 @@
 ##### A distribuição Binomial
 
 > Fórmula para função de probabilidade binomial dada por:
-![487f7012924c67dbbd1c84a8bffce53e.png](:/f22abba26fbc40e39f15051ce7733468)
+![487f7012924c67dbbd1c84a8bffce53e.png](../_resources/487f7012924c67dbbd1c84a8bffce53e.png)
 
 > Sendo que:
-![e426cffc4a7fc8c74732c8a95293fac2.png](:/b33a5046036e41b79c800584dbdc5388)
+![e426cffc4a7fc8c74732c8a95293fac2.png](../_resources/e426cffc4a7fc8c74732c8a95293fac2.png)
 
 > A distribuição binomial é usada para obter a probabilidade de observar:
-![27a091f2d492c83a5280a0c8413a0aa3.png](:/8857d9ffc2224b87b0d37e165c0e8600)
-
+![27a091f2d492c83a5280a0c8413a0aa3.png](../_resources/27a091f2d492c83a5280a0c8413a0aa3.png)
