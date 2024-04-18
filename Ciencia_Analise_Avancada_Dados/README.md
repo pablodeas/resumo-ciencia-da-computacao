@@ -255,10 +255,13 @@
 ##### A distribuição Binomial
 
 > Fórmula para função de probabilidade binomial dada por:
+
 ![img1.png](./src/img1.png)
 
 > Sendo que:
+
 ![img2.png](./src/img2.png)
 
 > A distribuição binomial é usada para obter a probabilidade de observar:
+
 ![img3.png](./src/img3.png)
