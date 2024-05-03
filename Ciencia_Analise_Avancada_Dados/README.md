@@ -277,5 +277,54 @@
 
 > Exemplo em Python
 
-![img4.png](./src/img5.png)
+![img5.png](./src/img5.png)
 
+---
+
+# Aula 3 - Princípios de Amostragem
+
+## Definição de Amostragem
+
+> É um instrumento que utilizamos para selecionar um subconjunto dos dados de uma população - ou seja, a amostra - de tal forma que sejam representativos.
+
+#### Exemplo de Amostragens
+> Qual a análise de sentimentos das pessoas sobre um filme?
+	Quais são os fatores que podem influenciar na opinião das pessoas?
+> Quais são as intenções de votos dos eleitores em um determinado político?
+	Como o processo de coleta de dados foi realizado?
+
+#### Princípios de Amostragem
+> Tentativas de representar comportamentos
+
+#### Dois princípios fundamentais
+> Regularidade
+	Seleção de muitos itens de forma aleatória
+> Lei dos Grandes Números
+	Seleção de grandes amostras
+
+#### Consequências Práticas
+> Compreensão de Comportamentos:
+> Boas consequências:
+	Aumentar as chances de sucesso de uma estratégia de investimentos
+	Aumentar engajamento de um determinado público
+> Más consequências:
+	Tomar decisões erradas
+	Não priorizar ações preventivas
+
+## Tipos de Amostras
+
+#### Distribuição Amostral da Média
+> É o tipo mais comum de distribuição amostral
+> É focada no cálculo da média de cada grupo de amostra que escolhemos dentro da população
+> Por fim, precisamos exibir essas médias em um gráfico do tipo histograma
+
+#### Distribuição Amostral de Proporção
+> Tem foco no cálculo das proporções de uma população
+> Selecionamos uma amostra e calculamos suas proporções
+> Por fim, as médias das proporções da amostra de cada grupo representam a proporção de toda a população
+
+#### Distribuição T
+> É uma distribuição amostral que envolve uma população pequena ou sobre a qual não sabemos muito sobre ela
+> Nós a utilizamos para estimar a média da população e outras estatísticas, como intervalos da confiança, diferenças esta´tisticas e regressão linear
+
+![img6.png](./src/img6.png)
