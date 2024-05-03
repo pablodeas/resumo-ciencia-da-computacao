@@ -347,3 +347,8 @@
 > Pergunta: como podemos garantir que alcancemos o resutado esperado?
 	Podemos analisar uma distribuição amostral através da seleção de diversos grupos de amostras e calcular as suas respectativas médias
 
+#### A importância das distribuições amostrais
+> Como podemos fazer inferências sobre uma população?
+	Através do Estudo das Distribuições Amostrais.
+	Assim, maximizamos o uso dos recursos financeiros, mão-de-obra e qualidade dos resultados
+
