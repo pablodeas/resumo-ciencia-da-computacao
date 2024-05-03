@@ -328,3 +328,22 @@
 > Nós a utilizamos para estimar a média da população e outras estatísticas, como intervalos da confiança, diferenças esta´tisticas e regressão linear
 
 ![img6.png](./src/img6.png)
+
+#### A importância dos tipos de distribuições
+> Por que existem tantos tipos de distribuições?
+> Pois cada uma delas é mais útil em um determinado contexto
+> Por exemplo, qual distribuição amostral você utilizaria, se tivesse poucos dados?
+
+## Distribuições Amostrais
+
+#### Histogramas
+> É uma representação gráfica da distribuição de dados numéricos
+
+![img7.png](./src/img7.png)
+
+> Um exemplo para analisarmos.
+> Cenário: uma grande quantidade de mudas de árvores da mesma espécoe é entregue para serem plantadas
+> Expectativa: é que produzam frutos no mesmo período
+> Pergunta: como podemos garantir que alcancemos o resutado esperado?
+	Podemos analisar uma distribuição amostral através da seleção de diversos grupos de amostras e calcular as suas respectativas médias
+
