@@ -289,9 +289,9 @@
 
 #### Exemplo de Amostragens
 > Qual a análise de sentimentos das pessoas sobre um filme?
-	Quais são os fatores que podem influenciar na opinião das pessoas?
+> Quais são os fatores que podem influenciar na opinião das pessoas?
 > Quais são as intenções de votos dos eleitores em um determinado político?
-	Como o processo de coleta de dados foi realizado?
+> Como o processo de coleta de dados foi realizado?
 
 #### Princípios de Amostragem
 > Tentativas de representar comportamentos
@@ -325,14 +325,14 @@
 
 #### Distribuição T
 > É uma distribuição amostral que envolve uma população pequena ou sobre a qual não sabemos muito sobre ela
-> Nós a utilizamos para estimar a média da população e outras estatísticas, como intervalos da confiança, diferenças esta´tisticas e regressão linear
+> Nós a utilizamos para estimar a média da população e outras estatísticas, como intervalos da confiança, diferenças estatísticas e regressão linear
 
 ![img6.png](./src/img6.png)
 
 #### A importância dos tipos de distribuições
 > Por que existem tantos tipos de distribuições?
-> Pois cada uma delas é mais útil em um determinado contexto
-> Por exemplo, qual distribuição amostral você utilizaria, se tivesse poucos dados?
+	Pois cada uma delas é mais útil em um determinado contexto
+	Por exemplo, qual distribuição amostral você utilizaria, se tivesse poucos dados?
 
 ## Distribuições Amostrais
 
@@ -351,4 +351,50 @@
 > Como podemos fazer inferências sobre uma população?
 	Através do Estudo das Distribuições Amostrais.
 	Assim, maximizamos o uso dos recursos financeiros, mão-de-obra e qualidade dos resultados
+
+---
+
+# Aula 4 - Estimação de Parâmetros
+
+## Parâmetros Estatísticos 
+
+#### Definição
+
+> Um componente que utilizamos para descrever uma característica específica de toda a população. Através deles, podemos fazer inferências sobre a população, através de cálculo sobre amostras da população.
+
+### Parâmetro Média
+
+>  - Considerando os seguintes valores: 3, 5, 2, 2, 3, 1, 2, 1, 3 e 2.
+> Cálculo da Média
+> Soma tudo e divide pela quantidade de valores
+> Média = 2.4
+
+![img8.png](./src/img8.png)
+
+### Parâmetro Mediana
+
+>  - Valores: 17, 17, 17, 18, 18, 19, 19, 19, 20, 21, 25, 28, 32, 50, 63, 65, 66, 70.
+> Cálculo da Mediana
+> Como os valores já estão ordenados do menor para o maior, facilita a nossa vida.
+> A quantidade de dados é par, portanto calculamos a média dos dois valores centrais.
+> Mediana = (20 + 21)/2 = 20.5
+
+![img9.png](./src/img9.png)
+
+### Parâmetro Moda
+
+> - Valores: 
+	Grupo1: 2;
+	Grupo2: 4;
+	Grupo3: 20;
+	Grupo4: 22;
+	Grupo5: 2;
+
+> Cálculo
+> O grupo 4 é o que possui a maior quantidade de estudantes, portanto...
+> Moda = 4
+
+![img10.png](./src/img10.png)
+
+## Erros de Estimação
 
