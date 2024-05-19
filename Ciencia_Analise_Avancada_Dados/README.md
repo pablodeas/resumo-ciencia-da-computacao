@@ -398,3 +398,50 @@
 
 ## Erros de Estimação
 
+#### Definição
+> São as diferenças entre os valores reais de um parâmetro e os valores estimados por meio de um modelo estatístico ou matemático. Eles podem surgir devido a vários fatores, como:
+1. erros de medição.
+2. erros de amostragem.
+3. especificação incorreta do modelo
+4. variação aleatória nos dados
+
+### Real x Estimado
+
+![img11.png](./src/img11.png)
+
+### Medida de Erro Clássico
+
+![img12.png](./src/img12.png)
+
+### Medida de Erro Absoluto
+
+![img13.png](./src/img13.png)
+
+### Medida de Erro Quadrado
+
+![img14.png](./src/img14.png)
+
+## Intervalos de Confiança
+
+#### Definição
+> Uma ferramenta estatística usada para estimar o intervalo de valores em que uma parâmerto populacional, provavelmente, estará com um certo nível de confiança. Nós construímos um intervalo de confiança através de uma amostra da população e um nível de confiança especificado, normalmente 95% ou 99%.
+
+![img15.png](./src/img15.png)
+
+### Tipos de Intervalo de Confiança
+
+- Tipos
+- Estimativas Pontuais:
+	É um parâmetro que é um valor numérico.
+- Estimativas de Intervalo:
+	Fornecem um intervalo como a estimativa de um parâmetro.
+
+- Fórmula:
+![img16.png](./src/img16.png)
+
+#### Exemplo
+
+> Suponha que estamos analisando o comportamento associado a um determinado ativo nos últimos 60 dias. O retorno médio é de 1% com desvio-padrão de 2%. Nosso objetivo é construir um intervalo de confiança levando em consideração um nível de confiança de 95%.
+
+- Solução: 
+![img17.png](./src/img17.png)
