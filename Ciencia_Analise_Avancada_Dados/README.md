@@ -445,3 +445,39 @@
 
 - Solução: 
 ![img17.png](./src/img17.png)
+
+---
+
+# Aula 5 - Teste de Hipótese
+
+## Teste de Hipóteses
+
+### Definição
+É uma técnica de estatística na qual testamos uma suposição em relação a um parâmetro populacional.
+O principal motivo de utilizarmos o teste de hipótese é devido à inviabilidade de analisar grandes volumes de dados.
+
+### Exemplos
+- Testar a confiabilidade de um sistema em relação a outros
+- Avaliar a padronização de um processo de produção
+- Uma equipe de marketing deseja determinar se uma nova campanha publicitária é mais eficaz do que a antiga.
+- Uma instituição educacional deseja testar se um novo método de ensino é mais eficaz do que o método antigo
+
+## Hipótese Nula
+
+### Definição
+É o padrão ou suposição inicial de que não há diferença ou nenhum efeito.
+A hipótese Nula é representada pelo símbolo H°.
+
+## Hipótese Alternativa
+
+### Definição 
+É a declaração que contradiz a hipótese nula e sugere que há uma diferença ou um efeito.
+É representada ou por H¹ ou Hæ.
+
+### Exemplo
+Uma equipe de marketing deseja determinar se uma nova campanha publicitária é mais eficaz do que a antiga.
+A hipótese nula é que não há diferença na taxa média de resposta entre as duas campanhas, enquanto a hipótese alternativa é que a nova campanha tem uma taxa de resposta maior.
+A equipe pode coletar dados sobre as taxas de resposta de uma amostra de clientes e realizar um teste de hipótese para determinar se a diferença é estatisticamente significativa,
+
+## Erros de Estimação
+
