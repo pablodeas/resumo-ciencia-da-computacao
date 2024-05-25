@@ -481,3 +481,57 @@ A equipe pode coletar dados sobre as taxas de resposta de uma amostra de cliente
 
 ## Erros de Estimação
 
+### Tipos de Erros
+
+- Tipo I > Ocorre quando os resultados da amostra rejeitam a hipótese nula, apesar dela ser verdadeira.
+
+- Tipo II > Nesse caso, a hipótese nula não é rejeitada, mas ela é falsa.
+
+### Exemplo
+Em uma fábrica, existem inspetores que são responsáveis para verificar a qualidade dos produtos antes que possam ser distribuídos e repassados para os consumidores.
+A situação ideal é que só saiam da fábrica os produtos de boa qualidade. No entanto, sabemos que erros podem ser cometidos nesse processo.
+O produto possui boa qualidade, mas foi reprovado pelo inspetor. Nesse caso, temos um exemplo de Erro do **Tipo I**.
+A outra situação é que o inspetor aprove um produto de má qualidade, quando na verdade, ele deveria ter reprovado. Esse é um Erro do **Tipo II**.
+
+## Nível de Significância e p-Valor
+
+### Definição
+- Nível de significância normalmente é representado pela letra grega alpha. Ele funciona como um critério para determinar se uma estatística de teste é de fato, significativa.
+- p-Valor é uma métrica utilizada para expressar a probabilidade de que algo diferente do esperado tenha ocorrido por acaso. Se o p-valor for muito baixo, então devemos rejeitar a hipótese nula.
+
+## Testes para Média, Variância e Proporção
+
+## Teste de Hipótese para Média
+
+### Cenário
+Supomos que a quantidade média de chamadas por hora em uma central de atendimento ao consumidor de uma grande empresa seja de: x = 100 chamados/hr
+
+![img18.png](./src/img18.png)
+
+Caso a média amostral seja próxima da média populacional, podemos supor que ela é a verdadeira média populacional.
+
+![img19.png](./src/img19.png)
+
+## Teste de Hipótese para Proporção
+
+### Cenário
+Um determinado programa tem uma confiabilidade de 60%. O gestor da fábrica decidiu adquirir um novo software que, teoricamente tem um nível de confiabilidade superior. Para realizar a comparação, foram realizados 50 testes. Formalmente, temos que:
+
+![img20.png](./src/img20.png)
+
+### Interpretação
+A probabilidade do novo software ter um desempenho similar ao já existente no caso da hipótese nula, ou ser superior no caso da hipótese alternativa.
+
+### Solução
+
+![img21.png](./src/img21.png)
+![img22.png](./src/img22.png)
+![img23.png](./src/img23.png)
+
+## Teste de Hipótese para Variância
+
+### Definição
+É um método estatístico usado para testar se a variância de uma população é igual a um valor específico ou não.
+
+No teste de hipótese de variância, a hipótese nula assume que a variância da população é igual a um valor especificado, enquanto a hipótese alternativa assume que a variância da população não é igual ao valor especificado.
+
