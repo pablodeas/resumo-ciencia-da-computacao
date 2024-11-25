@@ -295,5 +295,6 @@ Os **diagramas podem ser:**
 
 ### Diagrama de Classes
 
-Este é o diagrama mais usado da UML, utilizado principalmente para auxiliar na coleta e análise de requisitos, no qual se determina as necessidades dos usuários. Basicamente el descreve o que deve estar presente no sistema modelado.
+Este é o diagrama mais usado da UML, utilizado principalmente para auxiliar na coleta e análise de requisitos, no qual se determina as necessidades dos usuários. Basicamente ele descreve o que deve estar presente no sistema modelado.
 
+![diagrama](src/diagrama_classes.jpg)
