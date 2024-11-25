@@ -535,3 +535,62 @@ A probabilidade do novo software ter um desempenho similar ao já existente no c
 
 No teste de hipótese de variância, a hipótese nula assume que a variância da população é igual a um valor especificado, enquanto a hipótese alternativa assume que a variância da população não é igual ao valor especificado.
 
+---
+
+# Aula 6 - Teste de Análise Exploratória de Dados
+
+## Análise Exploratória de Dados
+
+### Definição
+A AED faz análise e resumo dos conjuntos de dados com o objetivo de descobrir padrões, relacionamentos e anomalias.
+
+### Objetivo
+Queremos obter uma compreensão dos dados através da visualização, descrição e resumo das principais características deles.
+
+### Algumas Funções Estatísticas
+- Técnicas de redução de dimensão
+- Visualizações de dados com estatísticas resumidas
+- Agrupamento de dados
+- Modelos preditivos para estimar resultados
+
+### Etapas
+- Preparar os dados
+- Visualizar os dados através de gráficos
+- Tentar identificar padrões relevantes nos gráficos
+- Buscar por identificar situações atípicas
+- Identificar, caso existam, dados ausentes
+- Buscar por características "interessantes"
+
+## Redução de Dimensões
+
+### Conceitos
+A redução de dimensionalidade significa diminuir o número de características ou variáveis em um conjunto de dados.
+O objetivo é focar nas informações mais importantes.
+
+### Principais abordagens
+- Seleção de características:
+Devemos selecionar um subconjunto das características originais mais relevantes para a análise.
+
+- Extração de características:
+Ela transforma as características originais em um conjunto menor de novas características. essas novas características capturam as informações importantes sobre a forma como os dados se relacionam.
+
+### Algumas utilidades práticas
+- Visualizar dados de alta dimensão em duas ou três dimensões.
+- Identificar características importantes que contribuem para a variação nos dados.
+- Reduzir o ruído nos dados removendo características irrelevantes.
+- Organizar os dados de modo que possam ser úteis no desenvolvimento de modelos para análise posterior.
+
+## Metodologia de Construção de Indicadores
+
+### Conceito sobre Indicadores
+Os indicadores representam uma medida de um processo a partir de dados existentes em relação a uma determinada área de interesse.
+Na AED, a construção de indicadores é útil para identificar padrões e relacionamentos nos dados que não são trivialmente aparentes.
+
+### Etapas para Construção de Indicadores
+- Estabelecer o foco do que queremos medir
+- Identificar as fontes de dados relevantes
+- Desenvolver os indicadores que se encaixam no foco que queremos alcançar com base nos dados que temos
+- Avaliar os indicadores
+- Aperfeiçoar e remover indicadores
+- Aplicar os indicadores para produzir análises detalhadas
+
