@@ -298,3 +298,88 @@ Os **diagramas podem ser:**
 Este é o diagrama mais usado da UML, utilizado principalmente para auxiliar na coleta e análise de requisitos, no qual se determina as necessidades dos usuários. Basicamente ele descreve o que deve estar presente no sistema modelado.
 
 ![diagrama](src/diagrama_classes.jpg)
+
+Repara que cada classe é descrita por meio de atributos e operações.
+
+Além disso, cada associação possui uma multiplicidade que pode ser:
+
+![multiplicidade](src/multiplicidade.png)
+
+Para fazer um diagrama de classe é importante entender os tipos de relacionamentos que cada classe pode ter.
+
+![relacionamento](src/relacionamento.png)
+
+![classes_exemplo](src/classes_exemplo.png)
+
+### Diagramas Estruturais
+
+Estruturais ou estáticos são aqueles baseado em estruturas estáticas por meio de objetos, operações, relações e atributos.
+
+![estruturais](src/estruturais.png)
+
+- **Diagrama de Objetos**
+
+Representa os objetos do diagrama de classes em um determinado momento.
+
+- **Diagrama de Componentes**
+
+Mostra as peças que constituem o componente, como arquivos de código-fonte, bibliotecas de programação ou tabelas de banco de dados.
+
+- **Diagrama de Implantação**
+
+Demonstra a organização de elementos de um sistema para a sua execução.
+
+- **Diagrama de Pacotes**
+
+Usado para organizar elementos de modelo e mostrar dependência entre eles.
+
+- **Diagrama de Estrutura Composta**
+
+Usado para modelar colaborações.
+
+- **Diagrama de Perfil**
+
+Representa um mecanismo de extensibilidade que permite que as metaclasses no metamodelo existente sejam estendidas para se adequar a diferentes propósitos.
+
+### Diagramas Comportamentais
+
+Comportamentais(Dinâmicos) são aqueles com comportamento dinâmico por meio de colaboração entre os objetos e mudanças de seus estados internos.
+
+- **Diagrama de Caso de Uso**
+
+Demonstra e/ou descreve funções de alto nível e escopo de um sistema, eles podem identificar as interações entre o sistema e seus agentes.
+
+- **Diagrama de Atividade**
+
+Apresenta os passos a serem seguidos para a conclusão de uma atividade.
+
+- **Diagrama de Máquina de Estados**
+
+Composto por estados, transições, eventos e atividades, é usado principalmente para modelar o comportamento de interfaces, classes ou colaborações.
+
+- **Diagrama de Interação**
+
+Os diagramas de interação são 4: Sequência; Comunicação; Visão Geral de Interação e Tempo.
+
+### Diagramas de Interação
+
+É um diagrama UML usado para mostrar o comportamento interativo do sistema.
+
+![interacao](src/interacao.png)
+
+- **Diagrama de Comunicação**
+
+Foca na organização estrutural de objetos que enviam e recebem mensagens.
+
+- **Diagrama de Sequência**
+
+variante do diagramde de atividade que apresenta uma cisão geral do sistema e/ou processo de negócios.
+
+- **Diagrama de Visão Geral de Interação**
+
+Também é uma variação do diagrama de atividades e cria uma visão geral do controle de fluxo.
+
+- **Diagrama de Temporização**
+
+Apresenta o comportamento dos objetos e sua interação em uma escala de tempo.
+
